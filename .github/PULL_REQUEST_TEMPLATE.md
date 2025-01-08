@@ -1,17 +1,17 @@
-# What type of PR is this?
-- [X] New feature
-- [ ] Bug fix
-- [ ] Suggest
-- [ ] ETC
+# 🚀 What type of PR is this?
+- [X] ✨ New feature
+- [ ] 🐛 Bug fix
+- [ ] 💡 Suggest
+- [ ] 📋 ETC
 
-# Related issue
+# 🔗 Related issue
 None
 
-# Description
+# 📝 Description
+<!-- Provide a concise and clear explanation of the PR's purpose. -->
 
-
-# Screenshots
+# 📷 Screenshots
 None
 
-# Additional Information
+# ℹ️ Additional Information
 None
